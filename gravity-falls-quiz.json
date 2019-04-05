@@ -1,0 +1,154 @@
+{
+    "quizTitle" : "Which Gravity Falls character are you?",
+    "questions" : [
+        {
+            "questionTitle" : "Pick your favorite food.",
+            "responseOptions" : [
+                {
+                    "imgUrl" : "",
+                    "caption" : "country fried steak"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "potato chips"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "pancakes"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "oreo stuffed sugar cookies"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "enchiladas"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "tv dinner"
+                }
+            ]
+        },
+
+        {
+            "questionTitle" : "Pick a color.",
+            "responseOptions" : [
+                {
+                    "imgUrl" : "",
+                    "caption" : "forest green"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "maroon"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "rainbow"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "boy blue"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "orange"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "baby blue"
+                }
+            ]
+        },
+
+        {
+            "questionTitle" : "Pick a hobby that appeals to you.",
+            "responseOptions" : [
+                {
+                    "imgUrl" : "",
+                    "caption" : "world domination"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "fishing"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "throwing axes"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "playing video games"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "tea parties with girlfriends"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "reading mystery novels"
+                }
+            ]
+        },
+
+        {
+            "questionTitle" : "Pick an animal.",
+            "responseOptions" : [
+                {
+                    "imgUrl" : "",
+                    "caption" : "dog"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "hamster"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "slow loris"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "elephant"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "gazelle"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "unicorn"
+                }
+            ]
+        },
+
+        {
+            "questionTitle" : "Pick an ally.",
+            "responseOptions" : [
+                {
+                    "imgUrl" : "",
+                    "caption" : "Robbie Valentino"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "Mabel Pines"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "Ford Pines"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "Stan Pines"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "Dipper Pines"
+                },
+                {
+                    "imgUrl" : "",
+                    "caption" : "Abuelita"
+                }
+            ]
+        }
+    ]
+}
