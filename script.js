@@ -27,7 +27,7 @@ $.getJSON("./gravity-falls-quiz.json", function(data) {
 
     // initialize map of outcomes -- an outcome
     // is key-value pair -- see example below:
-    // { "key" : "Stan", "value": "5" }
+    // { key : "Stan", value: "5" }
     quizOutcomes = new Map();
     var outcomes = Object.keys(data["outcomes"]);
     for (var i = 0; i < outcomes.length; i++) {
