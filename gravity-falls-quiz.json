@@ -19,7 +19,7 @@
         "Dipper" : {
             "imgUrl" : "./assets/ally-dipper.png",
             "text" : "You got Dipper!",
-            "description" : "Intelligent, compassionate, self-conscious, rational, and sometimes overly judgemental, you are wise beyond your years. Additionally, you are a born problem-solver always looking for the next problem to solve for the good of humanity. Oftentimes however, in the overzealous pursuit of your goals &mdash; you can come off as ruthless and way too serious."
+            "description" : "Intelligent, compassionate, self-conscious, rational, and sometimes overly judgemental, you are wise beyond your years. Additionally, you are a born problem-solver always looking for the next problem to solve for the good of humanity. Oftentimes however, in the overzealous pursuit of your goals you can come off as ruthless and way too serious."
         },
         "Soos" : {
             "imgUrl" : "./assets/ally-soos.png",
