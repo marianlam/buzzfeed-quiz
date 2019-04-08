@@ -9,7 +9,7 @@
         "Stan" : {
             "imgUrl" : "./assets/ally-stan.png",
             "text" : "You got Grunkle Stan!",
-            "description" : "At first sight you seem like a cunning salesman with a penchant for greed and selfishness. However, like Stan, you're redeemed by a deep sense of family loyalty and blunt honesty when it comes to telling others what you truly believe in. Lastly, because you're willing to protect your loved ones at all cost you are everybody's favorite Grunkle."
+            "description" : "At first sight you seem like a cunning salesman with a penchant for greed and selfishness. However, like Stan, you're redeemed by a deep sense of family loyalty and blunt honesty when it comes to telling others what you truly think. Lastly, because you're willing to protect your loved ones at all cost you are everyone's favorite Grunkle."
         },
         "Mabel" : {
             "imgUrl" : "./assets/ally-mabel.png",
