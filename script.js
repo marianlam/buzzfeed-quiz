@@ -2,7 +2,7 @@
 var quizTable;
 var quizOutcomes;
 var quizData;
-var noPriorSubmits = true;
+var noPriorSubmit = true;
 
 window.onbeforeunload = function () {
     window.scrollTo(0, 0);
@@ -143,7 +143,7 @@ function addSubmitBtn() {
 }
 
 function showResults(outcome) {
-    if (noPriorSubmits) {
+    if (noPriorSubmit) {
         var quizTitle = quizData["quizTitle"];
         var quizOutcome = quizData["outcomes"][outcome]["text"];
         var quizOutcomeImage = quizData["outcomes"][outcome]["imgUrl"];
@@ -170,7 +170,7 @@ function showResults(outcome) {
                     "</div>" +
                 "</div>" + 
             "</div>");
-        noPriorSubmits = false;
+        noPriorSubmit = false;
     }
 }
 
