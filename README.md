@@ -1,5 +1,5 @@
 # Buzzfeed&trade; Quiz
 A Gravity Falls themed personality quiz.
-## Full-sized Screen Shoot
+## Full-sized Screenshot
 ![](buzzfeed-quiz.png)
 
