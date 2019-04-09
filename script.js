@@ -105,7 +105,7 @@ function hideCaption(image) {
 
 function toggleCheckedClass(image) {
     var imageClassName = image.classList.item(0);
-    var imageClassArray =  document.getElementsByClassName(imageClassName);
+    var imageClassArray = document.getElementsByClassName(imageClassName);
     
     for (var i = 0 ; i < imageClassArray.length; i++) {
         var currImageElement = imageClassArray[i];
